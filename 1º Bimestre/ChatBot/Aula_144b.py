@@ -66,7 +66,7 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown(
-        "<small>Fundamentos de IA · Univille<br>Nome do aluno</small>",
+        "<small>Fundamentos de IA · Univille<br>IGOR</small>",
         unsafe_allow_html=True
     )
 
